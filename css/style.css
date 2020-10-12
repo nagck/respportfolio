@@ -7,3 +7,20 @@ body {
   background-color: rgb(185, 181, 181);
   background-image: url("../images/background.png");
 }
+
+main {
+  width: 80%;
+}
+
+#logo {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  background: teal;
+}
+/*.header h1 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  color: teal;
+}
+*/
