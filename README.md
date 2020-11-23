@@ -10,7 +10,13 @@ This source code is available to everyone under the standard MIT license.
 
 ## Installation
 
-Download the repo files as is and copy the files to a designated directory on your web server or computer without changing the directory/folder structure. 
+Download the repo files as is and copy the files to a designated directory on your web server or computer without changing the directory/folder structure.
+
+## Screenshot of the application:
+![](images/portfolio.png) 
+
+## Link to deployed website:
+https://nagck.github.io/respportfolio/
 
 ## Usage 
 
