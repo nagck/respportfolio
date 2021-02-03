@@ -2,7 +2,7 @@
 
 ## Description 
 
-In this repository ("Responsive Portfolio"), I have created a sample website about my personal portfolio as part of my assignment for UofT SCS Coding Boot Camp Course. The sample portfolio website has been developed to demonstrate responsive design (using Bootstrap toolkit) which ensures that web sites/applications render well on a variety of devices and windows or screen sizes.
+In this repository ("Responsive Portfolio"), I have created a website about my personal portfolio as part of my assignment for UofT SCS Coding Boot Camp Course. The sample portfolio website has been developed to demonstrate responsive design (using Bootstrap toolkit) which ensures that web sites/applications render well on a variety of devices and windows or screen sizes.
 
 Users today access web sites/applications from a variety of devices with varying screen sizes. As web developers, it is our responsibility to ensure that all web sites/applications developed today incorporate responsive design for all components within the website (navigation bars, main content, layouts, images, etc.). This will ensure that users get consistent user experience across all devices when they visit the website or use the web application.
 
